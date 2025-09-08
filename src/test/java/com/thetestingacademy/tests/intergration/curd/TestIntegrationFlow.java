@@ -22,7 +22,7 @@ import static org.assertj.core.api.Assertions.assertThat;
 
 
         @Test(groups = {"integration", "P0"}, priority = 1)
-        @Owner("Ajeet")
+        @Owner("Ajeete")
         @Description("TC#INT1 - Step 1. Verify that the Booking can be Created")
         public void testCreateBooking(ITestContext iTestContext) {
 
